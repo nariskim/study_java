@@ -26,8 +26,9 @@ public class Variable {
 		//정수형은 0
 		//실수형은 0.0
 		//문자형은 ''또는 ""
-		
-		boolean defaultNy = false;
+	
+		boolean defaultNy = true;
+		boolean delNy = false;
 		byte aa = 0;
 		short bb = 0;
 		int cc = 0;

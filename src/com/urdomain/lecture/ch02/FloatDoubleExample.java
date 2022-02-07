@@ -21,7 +21,7 @@ public class FloatDoubleExample {
 		
 		//e 사용하기
 		int var6 = 3000000;
-		double var7 = 3e6;
+		double var7 = 3e6; //10에 6승 e
 		float var8 = 3e6F;
 		double var9 = 2e-3;
 		
