@@ -26,14 +26,14 @@ public class IncreaseDecreaseOperatorExample {
 		
 		System.out.println("----");
 		z= ++x;
-		System.out.println("z=" + z); //z: 
-		System.out.println("x=" + x); //x: 16
+		System.out.println("z=" + z); //z: 14
+		System.out.println("x=" + x); //x: 14
 		
 		System.out.println("----");
 		z = ++x + y++;
 		System.out.println("z=" + z); //z: 23
-		System.out.println("x=" + x); //x: 16
-		System.out.println("y=" + y); //y: 8
+		System.out.println("x=" + x); //x: 15
+		System.out.println("y=" + y); //y: 9
 		
 		
 		
