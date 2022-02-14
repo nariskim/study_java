@@ -6,7 +6,10 @@ public class BreakExample {
 		// TODO Auto-generated method stub
 		while(true) {
 			
-			int num = ((int)(Math.random()*6) +1);
+//			Math.random() * (max - min + 1) + min
+//			0.0 ~ (about)1.0에 가까운 double형 변환
+			
+			int num = ((int)(Math.random()*6) +1); //1부터 6까지
 			System.out.println(num);
 			if(num == 6) {
 				break;
