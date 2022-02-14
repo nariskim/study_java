@@ -41,7 +41,10 @@ public class ConditionLoop {
 //							}
 //							
 //					switch
-						조건에
+//						case
+//						break
+//						default
+//						break
 					
 //					
 //					반복문
