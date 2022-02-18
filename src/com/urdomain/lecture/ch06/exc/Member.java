@@ -1,4 +1,4 @@
-package com.urdomain.lecture.ch06;
+package com.urdomain.lecture.ch06.exc;
 
 public class Member {
 
@@ -13,5 +13,10 @@ public class Member {
 	int zipcode = 98750;
 	int fax = 1324567;
 	int phone = 01033333333;
+	
+//	method
+	
+	
+	
 	
 }
