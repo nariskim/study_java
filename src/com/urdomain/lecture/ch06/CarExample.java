@@ -5,8 +5,14 @@ public class CarExample {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		Car car = new Car();
+		Car car = new Car();	//Car() 생성자 = 함수이다, new = 연산자
 	
+		Student student = new Student();
+		int a = 1;
+		
+//		Student student = new Student();
+		
+		
 //		객체접근연산자(.)을 사용하여 car 객체변수의 값을 창조
 		
 		System.out.println("company : " + car.company);
