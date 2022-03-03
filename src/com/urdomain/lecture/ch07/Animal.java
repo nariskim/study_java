@@ -10,8 +10,6 @@ public abstract class Animal {
 	}
 	
 	
-	@Override
-	public void sound(String aaa) {
-		System.out.println("야옹" + aaa);
-	}
+	public abstract void sound();
+//	public abstract void sound(String m);
 }

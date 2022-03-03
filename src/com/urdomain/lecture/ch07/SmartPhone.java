@@ -1,8 +1,10 @@
 package com.urdomain.lecture.ch07;
 
 public class SmartPhone extends Phone{
-//생성자
-	Public SmartPhone(String owner){
+
+	//생성자
+	
+	public SmartPhone(String owner){
 		super(owner);
 	}
 	//메소드
