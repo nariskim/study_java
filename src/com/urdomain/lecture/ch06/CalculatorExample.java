@@ -4,7 +4,7 @@ public class CalculatorExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-			Calculator calculator = new Calculator();
+			Calculator0 calculator = new Calculator0();
 			calculator.powerOn();
 			
 			int result = calculator.plus(5,6);

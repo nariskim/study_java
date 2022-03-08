@@ -16,7 +16,7 @@ public class RemoteControlExample {
 //		interface를 구현한 class는 위에 처럼 일반 클래스 객체 만들듯이 하면 안됨.
 
 //		interface를 구현한 class를 사용해야 함.
-//		RemoteControl remoteControl;	//인터페이스 변수 선언
+//		RemoteControl remoteControl;	//인터페이스 변수 선1언
 //		remoteControl = new Audio();	//구현 객체로 초기화
 		
 //		RemoteControl remoteControl = new Audio();	//더 많이 사용

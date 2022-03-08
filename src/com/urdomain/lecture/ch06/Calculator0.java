@@ -1,6 +1,6 @@
 package com.urdomain.lecture.ch06;
 
-public class Calculator {
+public class Calculator0 {
 
 	
 	public void powerOn() {
